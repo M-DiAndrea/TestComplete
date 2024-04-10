@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{358A5406-F38D-4224-85C6-DFA038E6293D}">
+	<children>
+		<child name="Note Regression IL " key="{CF0B9E53-7598-4686-9DFB-68496AFA4648}" path="Note Regression IL .mds" />
+		<child name="Note1_29to1_48" key="{BF3BDBA4-8081-4F29-831C-BA92CB8FE427}" path="Note1_29to1_48\Note1_29to1_48.mds" />
+	</children>
+	<testItems key="{BC7018E9-5C59-4325-9B01-5AD4AA2AF224}">
+		<children>
+			<testItem key="{CF0B9E53-7598-4686-9DFB-68496AFA4648}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{BF3BDBA4-8081-4F29-831C-BA92CB8FE427}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{B569FDD4-95CF-48AE-953A-C7679252B2E2}" />
+	<analysis key="{B6AF3415-FE66-4ED1-A255-2EF70C3801D8}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
