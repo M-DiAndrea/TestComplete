@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{16B9B93A-4721-4D2E-945B-775E555FF521}">
+	<children>
+		<child name="WY Regression" key="{85944F62-31D4-4628-AAC9-E02116D14143}" path="WY Regression\WY Regression.mds" />
+	</children>
+	<testItems key="{8F0A9205-9F44-435B-B19E-3AB0311B7ED2}">
+		<children>
+			<testItem key="{85944F62-31D4-4628-AAC9-E02116D14143}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{61778DB5-4C5B-41E6-9ECF-982B9694B9A2}" />
+	<analysis key="{F775DD09-152F-46BB-A007-D5BA7B58B6B8}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
